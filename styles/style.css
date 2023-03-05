@@ -20,7 +20,6 @@ a{
     margin: auto;
 }
 
-/*! header start */
 
 header {
     height: 100px;
@@ -77,9 +76,6 @@ nav .menu .menu-button:hover {
     color: white;
 }
 
-/*! header end */
-
-/*! section start  */
 .content {
     color: white;
     height: calc(100vh - 100px);
@@ -121,9 +117,6 @@ nav .menu .menu-button:hover {
     color: white;
 }
 
-/*! section end  */
-
-/*! responsive start */
 @media(max-width:576px) {
     .container {
         width: 100%;
@@ -163,4 +156,3 @@ nav .menu .menu-button:hover {
     }
 }
 
-/*! responsive end */
